@@ -1,2 +1,2 @@
-Carbocalc is a carbohydrate calculater,
+Carbocalc is a carbohydrate calculator,
 Current version: V0.02
